@@ -23,4 +23,8 @@ The total number of items available for sale is 9K.
 Fruits and Vegetables has the highest sales of 178K.
 Snack Foods has 173K sales is second highest.
 In YOY chart 2020 (peak year) has sale of 295K.
+
 The pie chart divides the sales based on the location type:
+
+![1726296717520](https://github.com/user-attachments/assets/b666bc57-0cd9-4b30-9da9-784d78b3cc06)
+
