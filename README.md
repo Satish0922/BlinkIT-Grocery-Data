@@ -8,10 +8,6 @@ Data Visualization: Created interactive dashboards using Power BI to provide ins
 Data Sources: Processed raw grocery data to identify key trends and summarize it in visual formats.
 Insights: Developed actionable insights to improve business decisions, such as optimizing stock levels, predicting demand, and enhancing customer retention strategies.
 Tools Used: Power BI, Excel for data preparation, and SQL for querying.
-Files:
-
-BlinkIT Grocery Data.xlsx: The raw grocery data used in the analysis.
-BlinkIT Grocery.pbit: The Power BI template file used for dashboard creation.
 
 1. Cleaning Data
 Removing unnecessary columns and duplicates.
